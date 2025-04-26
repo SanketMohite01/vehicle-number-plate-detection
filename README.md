@@ -1,4 +1,4 @@
-# vehicle-number-plate-detection
+
 # Vehicle Number Plate Detection 🚗🔍
 
 This mini project focuses on detecting and extracting vehicle number plates from images using Python and OpenCV.  
